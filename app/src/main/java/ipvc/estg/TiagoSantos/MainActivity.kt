@@ -13,7 +13,12 @@ class MainActivity : AppCompatActivity() {
 
         // adicionei o método A
 
-
         // adicionei o método B
+
+        
+        //John added method C
+
+        // Tests on requirement 10
+
     }
 }
