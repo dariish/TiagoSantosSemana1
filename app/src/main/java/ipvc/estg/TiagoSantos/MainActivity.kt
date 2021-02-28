@@ -9,5 +9,8 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         Toast.makeText(this, R.string.welcome, Toast.LENGTH_SHORT).show()
+
+
+        // adicionei o método A
     }
 }
