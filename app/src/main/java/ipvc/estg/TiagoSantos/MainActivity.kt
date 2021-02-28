@@ -12,5 +12,8 @@ class MainActivity : AppCompatActivity() {
 
 
         // adicionei o método A
+
+
+        // adicionei o método B
     }
 }
